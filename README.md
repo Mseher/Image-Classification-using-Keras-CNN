@@ -7,19 +7,31 @@ This repository contains implementation for multiclass image classification usin
 You can download the modules in the respective requirements.txt for each implementation.
 
 Implementation using Keras
+
 1-sys
+
 2-os
+
 3-time
+
 4-keras==2.2.0
+
 5-numpy==1.14.5
 
 Implementation using Tensorflow
+
 1-os
+
 2-cv2
+
 3-glob
+
 4-dataset==1.1.0
+
 5-tensorflow==1.15.0
+
 6-numpy==1.14.5
+
 7-sklearn==0.19.1
 
 # Dataset
