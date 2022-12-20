@@ -35,4 +35,8 @@ Implementation using Tensorflow
 7-sklearn==0.19.1
 
 # Dataset
-Intel classified imagery data is used in this assignment
+Intel classified imagery data is used in this assignment.
+Link to download data:
+https://www.kaggle.com/datasets/puneet6060/intel-image-classification
+Link to load data in colab:
+https://github.com/visionatseecs/keras-starter/blob/main/Kaggle_Setup_in_Colab.ipynb
