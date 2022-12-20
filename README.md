@@ -3,3 +3,25 @@ Image Classification using Keras as well as Tensorflow. Image Classification is 
 
 This repository contains implementation for multiclass image classification using Keras as well as Tensorflow. 
 
+# Modules Required
+You can download the modules in the respective requirements.txt for each implementation.
+
+Implementation using Keras
+sys
+os
+time
+keras==2.2.0
+numpy==1.14.5
+
+Implementation using Tensorflow
+os
+time
+cv2
+glob
+dataset==1.1.0
+tensorflow==1.15.0
+numpy==1.14.5
+sklearn==0.19.1
+
+# Dataset
+Intel classifies imagery data is used in this assignment
