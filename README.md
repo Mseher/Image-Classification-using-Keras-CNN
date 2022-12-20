@@ -8,35 +8,36 @@ You can download the modules in the respective requirements.txt for each impleme
 
 Implementation using Keras
 
-1-sys
+sys
 
-2-os
+os
 
-3-time
+time
 
-4-keras==2.2.0
+keras==2.2.0
 
-5-numpy==1.14.5
+numpy==1.14.5
 
 Implementation using Tensorflow
 
-1-os
+os
 
-2-cv2
+cv2
 
-3-glob
+glob
 
-4-dataset==1.1.0
+dataset==1.1.0
 
-5-tensorflow==1.15.0
+tensorflow==1.15.0
 
-6-numpy==1.14.5
+numpy==1.14.5
 
-7-sklearn==0.19.1
+sklearn==0.19.1
 
 # Dataset
 Intel classified imagery data is used in this assignment.
 Link to download data:
 https://www.kaggle.com/datasets/puneet6060/intel-image-classification
+
 Link to load data in colab:
 https://github.com/visionatseecs/keras-starter/blob/main/Kaggle_Setup_in_Colab.ipynb
